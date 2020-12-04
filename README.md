@@ -1,5 +1,5 @@
 # Ubuntu20.04
-I installed and reinstalled Ubuntu frequently and I went through a lot of trouble installing some packages. So I'm documenting every thing and every step that worked for me for my convienec and have them all together.
+I installed and reinstalled Ubuntu frequently and I went through a lot of trouble installing some packages. So I'm documenting every thing and every step that worked for me so I can have them all together for my convienec.
 
 ## Essentials
 
