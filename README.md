@@ -7,6 +7,7 @@ I installed and reinstalled Ubuntu frequently and I went through a lot of troubl
 
 ### chrome 
 `wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb`
+
 `sudo dpkg -i google-chrome-stable_current_amd64.deb`
 
 
