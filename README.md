@@ -15,5 +15,19 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 `sudo snap install --classic code `
 
 
+
+
+
+
+
 ## Python Packages
 `sudo apt install python3-pip`
+
+
+#### OpenCV
+`sudo pip install opencv-contrib-python`
+> for full modules
+or
+`pip install opencv-python`
+> for main modules
+
