@@ -4,7 +4,7 @@ I installed and reinstalled Ubuntu frequently and I went through a lot of troubl
 ## Essentials
 
 
-``
+```
 sudo apt update
 sudo apt upgrade
 
