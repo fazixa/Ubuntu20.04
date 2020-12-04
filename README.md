@@ -30,7 +30,6 @@ sudo apt install git
 sudo pip install opencv-contrib-python   #for full modules
 or
 pip install opencv-python  #for main modules
-
 ```
 
 #### dlib
