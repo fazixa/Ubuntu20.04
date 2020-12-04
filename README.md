@@ -26,8 +26,7 @@ sudo apt install git
 
 
 #### OpenCV
-`sudo pip install opencv-contrib-python`
-> for full modules
+`sudo pip install opencv-contrib-python` > for full modules
 
 or
 
