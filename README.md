@@ -26,8 +26,12 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb
 
 #### OpenCV
 `sudo pip install opencv-contrib-python`
+
 > for full modules
+
 or
+
 `pip install opencv-python`
+
 > for main modules
 
