@@ -15,6 +15,10 @@ sudo snap install --classic code
 
 sudo apt install git
 
+Sudo apt-get install openconsudo opennnect
+
+sudo apt-get curl
+ 
 ```
 
 
@@ -22,7 +26,15 @@ sudo apt install git
 <br><br>
 
 ## Python Packages
-`sudo apt install python3-pip`
+```
+sudo apt install python3-pip
+sudo apt install python2
+curl https://bootstrap.pypa.io/get-pip.py --output get-pip.py
+sudo python2 get-pip.py
+
+pip install virtualenv
+
+```
 
 
 #### OpenCV
@@ -42,7 +54,7 @@ sudo apt-get install python python-dev python-pip
 sudo apt-get install python3 python3-dev python3-pip
 ```
 ```
-pip3 install numpy
-pip3 install dlib
+pip install numpy
+pip install dlib
 ```
 
