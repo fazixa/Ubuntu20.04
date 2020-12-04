@@ -30,8 +30,7 @@ sudo apt install git
 
 or
 
-`pip install opencv-python`
-> for main modules
+`pip install opencv-python` > for main modules
 
 #### dlib
 ```
